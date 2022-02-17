@@ -1,4 +1,4 @@
 Simple counter app.
-#Increasing
-#Decreasin
-#clear
+##Increasing
+##Decreasing
+##clear
