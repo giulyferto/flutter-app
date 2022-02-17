@@ -1,2 +1,4 @@
-A new Flutter project.
-
+Simple counter app.
+#Increasing
+#Decreasin
+#clear
